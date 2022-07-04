@@ -9,7 +9,7 @@
 <body>
     <?php   
 
-$echo 'Dragan2'; 			
+$ echo 'Dragan';							
 
 
 
